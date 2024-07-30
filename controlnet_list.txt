@@ -1,2 +1,4 @@
 https://huggingface.co/lllyasviel/ControlNet-v1-1",
 https://huggingface.co/stabilityai/control-lora",
+
+ip_adapter https://huggingface.co/h94/IP-Adapter
