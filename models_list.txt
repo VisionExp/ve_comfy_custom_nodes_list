@@ -1,4 +1,5 @@
-{"https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16": "JuggernautXL.safetensors",
+{
+"https://civitai.com/api/download/models/240840?type=Model&format=SafeTensor&size=full&fp=fp16": "JuggernautXL.safetensors",
 "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16": "epiCRealism.safetensors",
 "https://civitai.com/api/download/models/130090?type=Model&format=SafeTensor&size=full&fp=fp16": "RealisticVisionV51-inpainting.safetensors",
 "https://civitai.com/api/download/models/294995?type=Model&format=SafeTensor&size=pruned&fp=fp16": "Realities_Edge_XL_Turbo_v2.safetensors",
@@ -10,4 +11,5 @@
 "https://civitai.com/api/download/models/272378?type=Model&format=SafeTensor&size=pruned&fp=fp16": "RVXL3_turbo.safetensors",
 "https://civitai.com/api/download/models/295988?type=Model&format=SafeTensor&size=pruned&fp=fp16": "Ultraspice_XL_TURBO_v1.0.safetensors",
 "https://civitai.com/api/download/models/312982?type=Model&format=SafeTensor&size=full&fp=fp16": "NewReality_XL.safetensors",
-"https://civitai.com/api/download/models/309729?type=Model&format=SafeTensor&size=full&fp=fp16": "SDXL_Unstable_Diffusers.safetensors"}
+"https://civitai.com/api/download/models/309729?type=Model&format=SafeTensor&size=full&fp=fp16": "SDXL_Unstable_Diffusers.safetensors"
+}
