@@ -1,3 +1,4 @@
+{
 "https://civitai.com/api/download/models/16576?type=Model&format=SafeTensor&size=full&fp=fp16": "epi_noiseoffset.safetensors",
 "https://civitai.com/api/download/models/38113?type=Model&format=SafeTensor": "Arhictecture_Illustrate.safetensors",
 "https://civitai.com/api/download/models/39140?type=Model&format=SafeTensor": "Architecture_Sketch.safetensors",
@@ -6,3 +7,4 @@
 "https://civitai.com/api/download/models/141133?type=Model&format=SafeTensor": "XL Detail Enhancer.safetensors",
 "https://civitai.com/api/download/models/180569?type=Model&format=SafeTensor": "XL Film Photography Style.safetensors",
 "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors?download=true": "lcm-lora-sdxl.safetensors
+}
