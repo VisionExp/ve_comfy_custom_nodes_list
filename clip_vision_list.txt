@@ -1,2 +1,4 @@
-https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors?download=true',
-https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K/resolve/main/open_clip_pytorch_model.bin?download=true"
+{
+"https://huggingface.co/h94/IP-Adapter/resolve/main/models/image_encoder/model.safetensors?download=true": "clip_vision_model.safetensors",
+"https://huggingface.co/laion/CLIP-ViT-H-14-laion2B-s32B-b79K/resolve/main/open_clip_pytorch_model.bin?download=true": "CLIP-ViT-H-14-laion2B-s32B-b79K.bin"
+}
