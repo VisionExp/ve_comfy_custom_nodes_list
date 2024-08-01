@@ -1,2 +1,2 @@
-https://huggingface.co/lllyasviel/ControlNet-v1-1",
-https://huggingface.co/stabilityai/control-lora"
+git@hf.co:lllyasviel/ControlNet-v1-1",
+git@hf.co:stabilityai/control-lora"
