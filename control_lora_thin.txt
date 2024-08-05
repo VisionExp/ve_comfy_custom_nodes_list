@@ -1,0 +1,33 @@
+"control-lora" : [
+        "comfy-control-LoRA-workflows" : [
+            "control-lora-canny-basic_example.json",
+            "control-lora-depth-basic_example.json",
+            "control-lora-recolor-basic_example.json",
+            "control-lora-sketch-basic_example.json"
+        ],
+        "control-LoRAs-rank128" : [
+            "control-lora-canny-rank128.safetensors",
+            "control-lora-depth-rank128.safetensors",
+            "control-lora-recolor-rank128.safetensors",
+            "control-lora-sketch-rank128-metadata.safetensors",
+        ],
+        "control-LoRAs-rank256" : [
+            "control-lora-canny-rank256.safetensors",
+            "control-lora-depth-rank256.safetensors",
+            "control-lora-recolor-rank256.safetensors",
+            "control-lora-sketch-rank256.safetensors"
+        ],
+        "revision" : [
+            "clip_vision_g.safetensors",
+            "revision-basic_example.json",
+            "revision-image_mixing_example.json"
+        ],
+        "samples" : [
+            "canny-sample.jpeg",
+            "colorizer-sample.jpeg",
+            "comfyui-recolor-example.jpeg",
+            "depth-sample.jpeg",
+            "revision-sample.jpeg",
+            "swarmui-canny-example.jpeg"
+        ],
+    ]
