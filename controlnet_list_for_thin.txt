@@ -1,5 +1,5 @@
 {
-    "ControlNet-v1-1": [
+    "ControlNet-v1-1": "[
         "control_v11e_sd15_ip2p.pth",
         "control_v11e_sd15_ip2p.yaml",
         "control_v11e_sd15_shuffle.pth",
@@ -28,5 +28,5 @@
         "control_v11p_sd15_softedge.yaml",
         "control_v11p_sd15s2_lineart_anime.pth",
         "control_v11p_sd15s2_lineart_anime.yaml",
-    ]
+    ]"
 }
