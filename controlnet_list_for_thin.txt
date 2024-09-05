@@ -68,4 +68,5 @@ t2i-adapter_xl_canny.safetensors,
 t2i-adapter_xl_openpose.safetensors,
 t2i-adapter_xl_sketch.safetensors,
 thibaud_xl_openpose.safetensors,
-thibaud_xl_openpose_256lora.safetensors
+thibaud_xl_openpose_256lora.safetensors,
+instantx_flux_canny.safetensors
