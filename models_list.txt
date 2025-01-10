@@ -12,7 +12,7 @@
 "https://civitai.com/api/download/models/295988?type=Model&format=SafeTensor&size=pruned&fp=fp16": "Ultraspice_XL_TURBO_v1.0.safetensors",
 "https://civitai.com/api/download/models/312982?type=Model&format=SafeTensor&size=full&fp=fp16": "NewReality_XL.safetensors",
 "https://civitai.com/api/download/models/309729?type=Model&format=SafeTensor&size=full&fp=fp16": "SDXL_Unstable_Diffusers.safetensors",
-"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors?download=true": "flux1-dev-fp8.safetensors"
+"https://huggingface.co/Comfy-Org/flux1-dev/resolve/main/flux1-dev-fp8.safetensors?download=true": "flux1-dev-fp8.safetensors",
 "https://huggingface.co/alexgenovese/checkpoint/resolve/5d96d799d7e943878a2c7614674eb48435891d00/realisticVisionV60B1_v60B1VAE.safetensors":"realisticVisionV60B1_v60B1VAE.safetensors",
 "https://huggingface.co/gingerlollipopdx/ModelsXL/resolve/main/dreamshaperXL_v21TurboDPMSDE.safetensors":"dreamshaperXL_v21TurboDPMSDE.safetensors"
 }
