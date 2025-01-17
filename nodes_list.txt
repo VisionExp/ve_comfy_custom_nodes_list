@@ -5,3 +5,5 @@ https://github.com/cubiq/ComfyUI_IPAdapter_plus.git,
 https://github.com/kijai/ComfyUI-SVD.git,
 https://github.com/palant/image-resize-comfyui.git,
 https://github.com/ai-shizuka/ComfyUI-tbox.git
+https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+https://github.com/kijai/ComfyUI-SUPIR.git
